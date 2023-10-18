@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfAttachmentExtractor", "PdfAttachmentExtractor\PdfAttachmentExtractor.csproj", "{22DFD226-28A2-4464-A367-A81AA71ED1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DFD226-28A2-4464-A367-A81AA71ED1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DFD226-28A2-4464-A367-A81AA71ED1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DFD226-28A2-4464-A367-A81AA71ED1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DFD226-28A2-4464-A367-A81AA71ED1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAC4AA6-C3D9-45A5-B62E-12044BE6B532}
+	EndGlobalSection
+EndGlobal
